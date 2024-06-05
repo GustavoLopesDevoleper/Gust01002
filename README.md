@@ -17,7 +17,7 @@
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=Gust01002&show_icons=true&theme=merko&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust01002&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gust01002&layout=compact&hide=java,c%23,ruby,php)
 
 ## Minha História 
 
